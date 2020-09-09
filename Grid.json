@@ -1,0 +1,13 @@
+{
+ "autoWidth": true,
+ "cols": [""],
+ "form": undefined,
+ "laungage": undefined,
+ "pagination": false,
+ "rows": undefined,
+ "search": false,
+ "server": undefined,
+ "sort": false,
+ "theme": "mermaid",
+ "width": "100%"
+}
